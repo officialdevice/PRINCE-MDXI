@@ -1,14 +1,14 @@
 {
   "bot-name": "PRINCE-MDXI",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
-  "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
+  "logo": "https://raw.githubusercontent.com/officialdevice/url/main/url/1264.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://princeweb.onrender.com",
-  "owner-verification": "princemayel99@gmail.com",
-  
+  "owner-verification": "antidevice203@gmail.com ",
+ 
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'PRINCE-MDX~'",
+      "description": "Must Start with 'LORD-BLAST~'",
       "required": true,
       "value": ""
     },  
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "234701905655"
     },
     
    
