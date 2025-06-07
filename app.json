@@ -5,7 +5,7 @@
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
   "logo": "https://files.catbox.moe/52699c.jpg",
   "keywords": ["prince-md", "Prince mdx","prince mdxi","PRINCE-MDXI"],
-  "repository": "https://github.com/Mayelprince/PRINCE-MDXI",
+  "repository": "https://github.com/officialdevice/PRINCE-MDXI",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "lordblast"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 237xxxxx",
+      "description": "Put only one Owner Number Here ie 234xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "2347041905655"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -35,7 +35,7 @@
       "value": "inboxonly"
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here ie 2347xxxx,2357xxxxx,920xxxxx. Sudos have same rights as owner(can command the bot). if you don't want leave the space empty",
+      "description": "Put Sudo Numbers separated by comma Here ie 2347xxxx,234xxxxx,920xxxxx. Sudos have same rights as owner(can command the bot). if you don't want leave the space empty",
       "required": false,
       "value": ""
     },
