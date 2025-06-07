@@ -3,11 +3,11 @@
 
 
   <p align="center">
-<a href="https://github.com/Mayelprince/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/officialdevice/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/officialdevice/PRINCE-MDXI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/officialdevice/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/officialdevice/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/officialdevice/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/officialdevice/PRINCE-MDXI?style=flat-square&color=green"></a>
+<a href="https://github.com/officialdevice/PRINCE-MDXI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -39,11 +39,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Mayelprince/PRINCE-MDXI/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/officialdevice/PRINCE-MDXI/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:23769xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:234xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
